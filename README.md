@@ -1,6 +1,6 @@
 # Programming with Google Go Specialization
 
-Repository for the Coursera's "Programming with Google Go" specialization.
+Repository for the [Coursera's "Programming with Google Go" specialization](https://www.coursera.org/specializations/google-golang).
 
 ## Course 1: Getting Started with Go
 
